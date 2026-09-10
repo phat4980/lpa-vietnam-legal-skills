@@ -1,0 +1,67 @@
+contract:
+  type: ""
+  purpose: ""
+  effective_date: ""
+  duration: ""
+
+seller:
+  legal_name: ""
+  tax_id: ""
+  address: ""
+  representative: ""
+  title: ""
+
+buyer:
+  legal_name: ""
+  tax_id: ""
+  address: ""
+  representative: ""
+  title: ""
+
+commercial:
+  goods: ""
+  specifications: ""
+  quantity: ""
+  unit: ""
+  unit_price: ""
+  vat: ""
+  currency: ""
+
+ordering:
+  channel: ""
+  lead_time: ""
+  confirmation_method: ""
+
+delivery:
+  location: ""
+  schedule: ""
+  transport: ""
+  acceptance_method: ""
+  risk_transfer: ""
+
+payment:
+  method: ""
+  invoice_rule: ""
+  payment_term: ""
+  credit_limit: ""
+  late_payment: ""
+
+quality:
+  specification: ""
+  inspection: ""
+  complaint_period: ""
+  replacement_rule: ""
+
+remedies:
+  penalty: ""
+  damages: ""
+  liability_cap: ""
+
+termination:
+  notice: ""
+  cure_period: ""
+
+dispute:
+  negotiation: ""
+  forum: ""
+  governing_law: ""
